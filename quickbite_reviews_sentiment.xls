@@ -1,0 +1,151 @@
+review_id,review_text,product,sentiment,source,date,rating
+1,"Customer support ignored my Beverage complaint for days, frustrating",Beverage,negative,Twitter,2025-11-17,1
+2,"My Beverage arrived on time, haven't tried it yet",Beverage,neutral,Twitter,2025-07-11,3
+3,Late delivery and the Biryani was defective on arrival.,Biryani,negative,App Store,2025-11-03,1
+4,"Average Pasta, works as expected but could be better.",Pasta,neutral,App Store,2025-06-07,3
+5,This Dessert broke my expectations in the worst way possible.,Dessert,negative,App Store,2025-02-13,1
+6,"Customer support ignored my Salad complaint for days, frustrating",Salad,negative,Twitter,2025-12-04,1
+7,Comparing a few Salad options before I decide,Salad,neutral,Twitter,2025-09-28,3
+8,"Sushi is amazing, exceeded all expectations #recommend",Sushi,positive,Twitter,2025-07-24,5
+9,"Excellent quality Pasta, using QuickBite daily without issues.",Pasta,positive,App Store,2025-03-03,5
+10,"Fantastic Dessert, customer service was also very helpful.",Dessert,positive,App Store,2025-10-29,4
+11,The Dessert was cold and soggy when it arrived. Very disappointing.,Dessert,negative,App Store,2025-12-29,1
+12,The Pizza was cold and soggy when it arrived. Very disappointing.,Pizza,negative,App Store,2025-02-06,2
+13,"Super happy with the Dessert, packaging was neat and delivery was quick.",Dessert,positive,App Store,2025-10-04,5
+14,"My Biryani arrived on time, haven't tried it yet",Biryani,neutral,Twitter,2025-08-31,3
+15,Worst Sushi I have ever tasted. Too oily and no flavor.,Sushi,negative,App Store,2025-07-01,2
+16,"The Sushi was fresh, flavorful, and beautifully presented.",Sushi,positive,App Store,2025-12-11,4
+17,"The Burger was fine, delivery was on time. No complaints.",Burger,neutral,App Store,2025-05-08,3
+18,"Super happy with the Dessert, packaging was neat and delivery was quick.",Dessert,positive,App Store,2025-08-05,5
+19,"Not happy with the Biryani, feels cheap and poorly made.",Biryani,negative,App Store,2025-08-15,1
+20,"Excellent quality Burger, using QuickBite daily without issues.",Burger,positive,App Store,2025-02-17,4
+21,"Reasonable Dessert, matches the pictures on the website.",Dessert,neutral,App Store,2025-04-20,4
+22,Comparing a few Sushi options before I decide,Sushi,neutral,Twitter,2025-01-02,4
+23,Late delivery and the Sushi was defective on arrival.,Sushi,negative,App Store,2025-05-27,2
+24,"My Sushi arrived on time, haven't tried it yet",Sushi,neutral,Twitter,2025-04-08,3
+25,"The Beverage is okay, does the job but nothing special.",Beverage,neutral,App Store,2025-06-10,3
+26,"Reasonable Pizza, matches the pictures on the website.",Pizza,neutral,App Store,2025-01-30,3
+27,"Can't stop ordering the Burger, best purchase this month! @QuickBite",Burger,positive,Twitter,2025-12-12,4
+28,QuickBite never disappoints. The Dessert was outstanding as always!,Dessert,positive,App Store,2025-10-24,5
+29,Just ordered a Pizza from QuickBite. Fingers crossed.,Pizza,neutral,Twitter,2025-05-14,3
+30,Great! Another cold Dessert delivered late. Just what I needed. #sarcasm,Dessert,negative,Twitter,2025-05-16,1
+31,"Poor quality Sushi, not worth the money at all.",Sushi,negative,App Store,2025-08-23,2
+32,"@QuickBite my Pasta arrived broken/cold, this is unacceptable",Pasta,negative,Twitter,2025-08-23,1
+33,Amazing Burger! Authentic taste and generous portions.,Burger,positive,App Store,2025-03-09,5
+34,"My Pasta arrived on time, haven't tried it yet",Pasta,neutral,Twitter,2025-05-26,3
+35,"The Biryani is fine, delivery took longer than expected though.",Biryani,neutral,App Store,2025-11-10,3
+36,"The Pizza was a disaster. QuickBite, do better! #disappointed",Pizza,negative,Twitter,2025-03-10,1
+37,"Average Beverage, works as expected but could be better.",Beverage,neutral,App Store,2025-05-20,3
+38,Great! Another cold Beverage delivered late. Just what I needed. #sarcasm,Beverage,negative,Twitter,2025-12-18,1
+39,"It's a decent Beverage for the price, no major complaints.",Beverage,neutral,App Store,2025-02-17,3
+40,"So disappointed with my Sushi, total waste of money #fail",Sushi,negative,Twitter,2025-06-20,1
+41,"The Biryani was a disaster. QuickBite, do better! #disappointed",Biryani,negative,Twitter,2025-08-15,1
+42,Worst Sushi I have ever tasted. Too oily and no flavor.,Sushi,negative,App Store,2025-12-20,1
+43,The Biryani was undercooked and the sauce was bland. Not worth the price.,Biryani,negative,App Store,2025-08-09,1
+44,"Fantastic Biryani, customer service was also very helpful.",Biryani,positive,App Store,2025-07-03,4
+45,"@QuickBite my Dessert arrived broken/cold, this is unacceptable",Dessert,negative,Twitter,2025-10-14,2
+46,"Customer support ignored my Sushi complaint for days, frustrating",Sushi,negative,Twitter,2025-03-25,1
+47,Just got my Biryani from QuickBite and I'm obsessed! #happy #foodie,Biryani,positive,Twitter,2025-06-20,5
+48,"My Sushi arrived on time, haven't tried it yet",Sushi,neutral,Twitter,2025-03-23,3
+49,The Burger was cold and soggy when it arrived. Very disappointing.,Burger,negative,App Store,2025-04-24,2
+50,The Dessert was so bad I couldn't finish it. Avoid at all costs.,Dessert,negative,Twitter,2025-06-06,2
+51,"The Dessert is functional, waiting to see how it holds up.",Dessert,neutral,App Store,2025-06-18,4
+52,"The Beverage was a disaster. QuickBite, do better! #disappointed",Beverage,negative,Twitter,2025-11-25,2
+53,Great! Another cold Sushi delivered late. Just what I needed. #sarcasm,Sushi,negative,Twitter,2025-03-01,1
+54,The Beverage exceeded my expectations. Will definitely order again!,Beverage,positive,App Store,2025-02-25,4
+55,"The Sushi was fine, delivery was on time. No complaints.",Sushi,neutral,App Store,2025-11-07,4
+56,The Burger was perfectly cooked and seasoned. Loved every bite!,Burger,positive,App Store,2025-05-11,5
+57,Just got my Pizza from QuickBite and I'm obsessed! #happy #foodie,Pizza,positive,Twitter,2025-07-06,5
+58,"Great value for money, the Sushi was worth every penny.",Sushi,positive,App Store,2025-11-16,5
+59,"@QuickBite my Pasta arrived broken/cold, this is unacceptable",Pasta,negative,Twitter,2025-09-17,2
+60,Obsessed with this Beverage! QuickBite really nailed it this time.,Beverage,positive,Twitter,2025-12-23,5
+61,Amazing Beverage! Authentic taste and generous portions.,Beverage,positive,App Store,2025-12-07,5
+62,"Shoutout to QuickBite for the amazing Sushi, sorted my cravings in minutes!",Sushi,positive,Twitter,2025-07-27,5
+63,Amazing Pizza! Authentic taste and generous portions.,Pizza,positive,App Store,2025-10-24,5
+64,"Reasonable Pasta, matches the pictures on the website.",Pasta,neutral,App Store,2025-09-19,3
+65,"Shoutout to QuickBite for the amazing Salad, sorted my cravings in minutes!",Salad,positive,Twitter,2025-05-26,4
+66,"The Pasta is functional, waiting to see how it holds up.",Pasta,neutral,App Store,2025-04-26,3
+67,The Dessert was cold and soggy when it arrived. Very disappointing.,Dessert,negative,App Store,2025-09-01,1
+68,"Poor quality Burger, not worth the money at all.",Burger,negative,App Store,2025-12-23,1
+69,"The Sushi is functional, waiting to see how it holds up.",Sushi,neutral,App Store,2025-12-02,3
+70,"@QuickBite my Pizza arrived broken/cold, this is unacceptable",Pizza,negative,Twitter,2025-04-23,2
+71,The Biryani was fire today! QuickBite never misses. #blessed,Biryani,positive,Twitter,2025-10-13,4
+72,"@QuickBite my Dessert arrived broken/cold, this is unacceptable",Dessert,negative,Twitter,2025-03-10,2
+73,Obsessed with this Salad! QuickBite really nailed it this time.,Salad,positive,Twitter,2025-11-10,5
+74,The Sushi was fire today! QuickBite never misses. #blessed,Sushi,positive,Twitter,2025-09-01,5
+75,Amazing Salad! Authentic taste and generous portions.,Salad,positive,App Store,2025-09-24,5
+76,"Got the Salad yesterday, still testing it out.",Salad,neutral,Twitter,2025-02-09,4
+77,"The Beverage was fine, delivery was on time. No complaints.",Beverage,neutral,App Store,2025-10-04,3
+78,Amazing Burger! Authentic taste and generous portions.,Burger,positive,App Store,2025-12-22,5
+79,"Thinking about ordering a Biryani, any recommendations?",Biryani,neutral,Twitter,2025-07-28,4
+80,"Regret buying this Pasta, quality is really bad.",Pasta,negative,App Store,2025-04-16,1
+81,Late delivery and the Sushi was defective on arrival.,Sushi,negative,App Store,2025-10-22,1
+82,"The Sushi was fine, delivery was on time. No complaints.",Sushi,neutral,App Store,2025-07-19,3
+83,My Sushi had wilted/rotten ingredients. Not fresh at all.,Sushi,negative,App Store,2025-09-07,1
+84,"Reasonable Dessert, matches the pictures on the website.",Dessert,neutral,App Store,2025-07-19,3
+85,QuickBite ruined my dinner with this Pasta. Not okay. #fail,Pasta,negative,Twitter,2025-08-28,1
+86,"So disappointed with my Biryani, total waste of money #fail",Biryani,negative,Twitter,2025-10-31,2
+87,The Pizza looks good but I haven't tried it much yet.,Pizza,neutral,App Store,2025-08-25,3
+88,"This Biryani is a total game changer, five stars!",Biryani,positive,App Store,2025-04-19,5
+89,Late delivery and the Salad was defective on arrival.,Salad,negative,App Store,2025-05-23,2
+90,Worst Sushi I have ever tasted. Too oily and no flavor.,Sushi,negative,App Store,2025-01-10,2
+91,"Ordered a Pizza today, let's see how it goes",Pizza,neutral,Twitter,2025-11-29,3
+92,"So disappointed with my Burger, total waste of money #fail",Burger,negative,Twitter,2025-05-07,1
+93,"Shoutout to QuickBite for the amazing Dessert, sorted my cravings in minutes!",Dessert,positive,Twitter,2025-03-06,5
+94,"Never ordering Salad again, quality control is terrible",Salad,negative,Twitter,2025-12-25,2
+95,"Shoutout to QuickBite for the amazing Beverage, sorted my cravings in minutes!",Beverage,positive,Twitter,2025-03-25,4
+96,The Beverage was cold and soggy when it arrived. Very disappointing.,Beverage,negative,App Store,2025-10-22,2
+97,My Sushi had wilted/rotten ingredients. Not fresh at all.,Sushi,negative,App Store,2025-02-08,1
+98,"I'm impressed by how well the Dessert was prepared, will order again.",Dessert,positive,App Store,2025-12-17,5
+99,"Ordered a Burger today, let's see how it goes",Burger,neutral,Twitter,2025-09-30,3
+100,"Can't stop ordering the Sushi, best purchase this month! @QuickBite",Sushi,positive,Twitter,2025-01-07,5
+101,"Thinking about ordering a Sushi, any recommendations?",Sushi,neutral,Twitter,2025-07-05,4
+102,QuickBite's Salad just made my day. So good! #foodie,Salad,positive,Twitter,2025-09-25,5
+103,The Beverage was so bad I couldn't finish it. Avoid at all costs.,Beverage,negative,Twitter,2025-08-12,2
+104,Amazing Beverage! Authentic taste and generous portions.,Beverage,positive,App Store,2025-05-23,4
+105,"Very disappointed with this Salad, stopped being fresh within an hour.",Salad,negative,App Store,2025-06-22,2
+106,"Fantastic Pizza, customer service was also very helpful.",Pizza,positive,App Store,2025-09-07,5
+107,"It's a decent Dessert for the price, no major complaints.",Dessert,neutral,App Store,2025-05-24,3
+108,"Excellent quality Beverage, using QuickBite daily without issues.",Beverage,positive,App Store,2025-02-13,5
+109,The Dessert was so bad I couldn't finish it. Avoid at all costs.,Dessert,negative,Twitter,2025-12-20,1
+110,The Salad was fire today! QuickBite never misses. #blessed,Salad,positive,Twitter,2025-01-09,5
+111,The Burger looks good but I haven't tried it much yet.,Burger,neutral,App Store,2025-06-06,3
+112,"Excellent quality Pasta, using QuickBite daily without issues.",Pasta,positive,App Store,2025-08-06,5
+113,"Super happy with the Pasta, packaging was neat and delivery was quick.",Pasta,positive,App Store,2025-06-06,5
+114,The Beverage arrived earlier than expected and was still warm. Impressed!,Beverage,positive,App Store,2025-06-11,5
+115,"Shoutout to QuickBite for the amazing Burger, sorted my cravings in minutes!",Burger,positive,Twitter,2025-04-21,5
+116,The Salad was perfectly cooked and seasoned. Loved every bite!,Salad,positive,App Store,2025-02-21,5
+117,"The Dessert was fine, delivery was on time. No complaints.",Dessert,neutral,App Store,2025-06-04,3
+118,Comparing a few Pizza options before I decide,Pizza,neutral,Twitter,2025-01-24,3
+119,The Pizza arrived earlier than expected and was still warm. Impressed!,Pizza,positive,App Store,2025-11-23,5
+120,"Absolutely loved the Salad, fresh ingredients and delivered hot!",Salad,positive,App Store,2025-08-29,5
+121,"Neutral experience overall with this Salad, meets basic needs.",Salad,neutral,App Store,2025-05-10,3
+122,Best Salad I have ever had from a delivery app. Highly recommended!,Salad,positive,App Store,2025-09-09,5
+123,"Great value for money, the Burger was worth every penny.",Burger,positive,App Store,2025-03-19,4
+124,"The Biryani was a disaster. QuickBite, do better! #disappointed",Biryani,negative,Twitter,2025-05-08,1
+125,"This Burger is a total game changer, five stars!",Burger,positive,App Store,2025-09-25,5
+126,"Very disappointed with this Sushi, stopped being fresh within an hour.",Sushi,negative,App Store,2025-10-29,2
+127,This Sushi broke my expectations in the worst way possible.,Sushi,negative,App Store,2025-11-09,1
+128,"Burger is amazing, exceeded all expectations #recommend",Burger,positive,Twitter,2025-05-16,5
+129,The Burger arrived damaged and customer support was unhelpful.,Burger,negative,App Store,2025-03-22,1
+130,"The Pizza works fine, packaging could be improved.",Pizza,neutral,App Store,2025-05-30,4
+131,The Pizza arrived earlier than expected and was still warm. Impressed!,Pizza,positive,App Store,2025-12-26,5
+132,"Not happy with the Salad, feels cheap and poorly made.",Salad,negative,App Store,2025-11-17,2
+133,"Excellent quality Dessert, using QuickBite daily without issues.",Dessert,positive,App Store,2025-11-28,5
+134,Comparing a few Biryani options before I decide,Biryani,neutral,Twitter,2025-01-31,3
+135,"Got the Biryani yesterday, still testing it out.",Biryani,neutral,Twitter,2025-03-05,4
+136,QuickBite's Salad just made my day. So good! #foodie,Salad,positive,Twitter,2025-09-14,5
+137,The Salad was perfectly cooked and seasoned. Loved every bite!,Salad,positive,App Store,2025-08-10,4
+138,Just got my Pasta from QuickBite and I'm obsessed! #happy #foodie,Pasta,positive,Twitter,2025-04-28,4
+139,"The Pizza from QuickBite is a total game changer, five stars!",Pizza,positive,Twitter,2025-03-31,4
+140,"Super happy with the Salad, packaging was neat and delivery was quick.",Salad,positive,App Store,2025-04-03,5
+141,The Sushi was so bad I couldn't finish it. Avoid at all costs.,Sushi,negative,Twitter,2025-08-29,1
+142,"Fantastic Pasta, customer service was also very helpful.",Pasta,positive,App Store,2025-03-24,4
+143,"Reasonable Pasta, matches the pictures on the website.",Pasta,neutral,App Store,2025-12-06,3
+144,Just got my Sushi from QuickBite and I'm obsessed! #happy #foodie,Sushi,positive,Twitter,2025-02-15,5
+145,Best Pasta I have ever had from a delivery app. Highly recommended!,Pasta,positive,App Store,2025-09-21,5
+146,The Pizza was fire today! QuickBite never misses. #blessed,Pizza,positive,Twitter,2025-01-28,5
+147,This Dessert broke my expectations in the worst way possible.,Dessert,negative,App Store,2025-11-17,2
+148,"Never ordering Salad again, quality control is terrible",Salad,negative,Twitter,2025-10-09,2
+149,The Biryani was fire today! QuickBite never misses. #blessed,Biryani,positive,Twitter,2025-03-04,5
+150,"Pizza is amazing, exceeded all expectations #recommend",Pizza,positive,Twitter,2025-06-09,5
